@@ -5,6 +5,8 @@
 
 ## Draft
 
+## 4.10.1 (09-29-2020)
+
 ## 4.10.0 (09-29-2020)
 - Create unified focus styling in Cornerstone. [#1812](https://github.com/bigcommerce/cornerstone/pull/1812)
 - Review link in quick modal focused twice. [#1797](https://github.com/bigcommerce/cornerstone/pull/1797)
